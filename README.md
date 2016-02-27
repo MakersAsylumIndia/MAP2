@@ -3,8 +3,11 @@
 Maker's Asylum Project #2
 
 learn to solder kit, through hole, interactive art
+
 1 LDR, 1 LED, 1 Transistor and a few passives. 10 parts in all.
+
 1 inch square board
+
 Build many and create a matrix for interactive art.
 
 ![MAP2 top](https://github.com/MakersAsylumIndia/MAP2/blob/master/kicad/image/map2_01.png)
