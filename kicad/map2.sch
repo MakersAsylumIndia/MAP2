@@ -1,5 +1,5 @@
 EESchema Schematic File Version 2
-LIBS:mmM
+LIBS:map2
 LIBS:power
 LIBS:map2-cache
 EELAYER 25 0
@@ -2931,21 +2931,21 @@ $EndComp
 $Comp
 L C_POL_1 C3
 U 1 1 56D18ACF
-P 4025 2575
-F 0 "C3" V 3975 2600 40  0000 L CNB
-F 1 "47uF" V 4150 2575 40  0000 L CNN
-F 2 "map2:Capacitor5x6RM2.5" H 4025 2575 60  0001 C CNN
-F 3 "" H 4025 2575 60  0000 C CNN
-F 4 "CAP ALUM 100UF 16V 20% RADIAL" H 4025 2775 60  0001 L CNN "Field4"
-F 5 "100u,16V" H 4025 2875 60  0001 L CNN "Field5"
-F 6 "Radial, Can, 6.3mm dia" H 4025 2975 60  0001 L CNN "Field6"
-F 7 "Panasonic Electronic Components" H 4025 3075 60  0001 L CNN "Field7"
-F 8 "ECE-A1CKA101" H 4025 3175 60  0001 L CNN "Field8"
-F 9 "Digikey" H 4025 3275 60  0001 L CNN "Field9"
-F 10 "P833-ND" H 4025 3375 60  0001 L CNN "Field10"
-F 11 "http://www.digikey.com/product-detail/en/ECE-A1CKA101/P833-ND/44757?cur=USD" H 4025 3475 60  0001 L CNN "Field11"
-	1    4025 2575
-	0    1    1    0   
+P 3975 2575
+F 0 "C3" V 3925 2600 40  0000 L CNB
+F 1 "47uF" V 4100 2575 40  0000 L CNN
+F 2 "map2:Capacitor5x6RM2.5" H 3975 2575 60  0001 C CNN
+F 3 "" H 3975 2575 60  0000 C CNN
+F 4 "CAP ALUM 100UF 16V 20% RADIAL" H 3975 2775 60  0001 L CNN "Field4"
+F 5 "100u,16V" H 3975 2875 60  0001 L CNN "Field5"
+F 6 "Radial, Can, 6.3mm dia" H 3975 2975 60  0001 L CNN "Field6"
+F 7 "Panasonic Electronic Components" H 3975 3075 60  0001 L CNN "Field7"
+F 8 "ECE-A1CKA101" H 3975 3175 60  0001 L CNN "Field8"
+F 9 "Digikey" H 3975 3275 60  0001 L CNN "Field9"
+F 10 "P833-ND" H 3975 3375 60  0001 L CNN "Field10"
+F 11 "http://www.digikey.com/product-detail/en/ECE-A1CKA101/P833-ND/44757?cur=USD" H 3975 3475 60  0001 L CNN "Field11"
+	1    3975 2575
+	0    -1   -1   0   
 $EndComp
 $Comp
 L NPN_TIP112G Q1
@@ -2953,7 +2953,7 @@ U 1 1 56D18B2D
 P 4150 3175
 F 0 "Q1" H 4350 3175 40  0000 L CNB
 F 1 "2N2222" H 4350 3100 40  0000 L CNN
-F 2 "map2:TO-92-Bipolar-rugged-CBE" H 4340 3175 30  0001 C CNN
+F 2 "map2:TO-92_Molded_Narrow" H 4340 3175 30  0001 C CNN
 F 3 "" H 4150 3175 60  0000 C CNN
 	1    4150 3175
 	1    0    0    -1  
@@ -3058,7 +3058,7 @@ U 1 1 56D1A951
 P 1750 5100
 F 0 "P9" V 1650 5175 50  0000 C CNB
 F 1 "LOGO" V 1850 5100 50  0000 C CNN
-F 2 "" H 1750 5100 50  0001 C CNN
+F 2 "map2:MA_logo" H 1750 5100 50  0001 C CNN
 F 3 "" H 1750 5100 50  0000 C CNN
 	1    1750 5100
 	0    1    1    0   
@@ -3100,14 +3100,15 @@ F 0 "BT1" V 1650 2675 40  0000 L CNB
 F 1 "CR2032" H 1800 2675 40  0000 L CNN
 F 2 "" H 1750 2625 60  0001 C CNN
 F 3 "" H 1750 2625 60  0000 C CNN
-F 4 "HOLDER BATTERY COIN 20MM DIA THM" H 1750 2925 60  0001 L CNN "Field4"
-F 5 "Coin Cell, Retainer" H 1750 3025 60  0001 L CNN "Field5"
-F 6 "Coin, 20.0mm" H 1750 3125 60  0001 L CNN "Field6"
-F 7 "Keystone Electronics" H 1750 3225 60  0001 L CNN "Field7"
-F 8 "3003" H 1750 3325 60  0001 L CNN "Field8"
-F 9 "Digikey" H 1750 3425 60  0001 L CNN "Field9"
-F 10 "3003K-ND" H 1750 3525 60  0001 L CNN "Field10"
-F 11 "http://www.digikey.com/scripts/DkSearch/dksus.dll?x=0&y=0&lang=en&KeyWords=3003K-ND&cur=USD" H 1750 3625 60  0001 L CNN "Field11"
+F 4 "mfr_pn" H 1750 2625 60  0001 C CNN "manf#"
+F 5 "HOLDER BATTERY COIN 20MM DIA THM" H 1750 2925 60  0001 L CNN "Field4"
+F 6 "Coin Cell, Retainer" H 1750 3025 60  0001 L CNN "Field5"
+F 7 "Coin, 20.0mm" H 1750 3125 60  0001 L CNN "Field6"
+F 8 "Keystone Electronics" H 1750 3225 60  0001 L CNN "Field7"
+F 9 "3003" H 1750 3325 60  0001 L CNN "Field8"
+F 10 "Digikey" H 1750 3425 60  0001 L CNN "Field9"
+F 11 "3003K-ND" H 1750 3525 60  0001 L CNN "Field10"
+F 12 "http://www.digikey.com/scripts/DkSearch/dksus.dll?x=0&y=0&lang=en&KeyWords=3003K-ND&cur=USD" H 1750 3625 60  0001 L CNN "Field11"
 	1    1750 2625
 	0    1    1    0   
 $EndComp
@@ -3124,4 +3125,16 @@ F 3 "" H 2750 3175 60  0000 C CNN
 	1    2750 3175
 	1    0    0    -1  
 $EndComp
+Text Label 2750 2825 0    40   ~ 0
+LDR
+Text Label 3375 3175 0    40   ~ 0
+BASE
+Text Label 4250 2775 0    40   ~ 0
+COLL
+Text Label 4250 1925 0    40   ~ 0
+LED
+Text Label 2225 1250 0    40   ~ 0
+5V
+Text Label 2275 3725 0    40   ~ 0
+GND
 $EndSCHEMATC

@@ -1,4 +1,4 @@
-update=Sat Feb 27 18:46:29 2016
+update=Sat Feb 27 23:17:26 2016
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,12 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[eeschema]
-version=1
-LibDir=
-[eeschema/libraries]
-LibName1=/home/anool/projects-git/mmM/kicad/mmM_Libs/mmM
-LibName2=power
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -39,5 +33,11 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[eeschema]
+version=1
+LibDir=
+[eeschema/libraries]
+LibName1=map2
+LibName2=power
 [general]
 version=1

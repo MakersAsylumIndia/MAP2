@@ -10,4 +10,9 @@
   (fp_circle (center 0 0) (end -2.54 0) (layer F.SilkS) (width 0.254))
   (pad 1 thru_hole circle (at -1.778 0) (size 1.99898 1.99898) (drill 1.00076) (layers *.Cu *.SilkS *.Mask))
   (pad 2 thru_hole circle (at 1.778 0) (size 1.99898 1.99898) (drill 1.00076) (layers *.Cu *.SilkS *.Mask))
+  (model R_photo.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
