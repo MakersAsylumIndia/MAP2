@@ -1,0 +1,19 @@
+Reference, Value, Footprint, Datasheet, Field4, Field5, Field6, Field7, Field8, Field9, Field10, Field11
+R1,2k2,map2:Resistor_Horizontal_RM10mm,
+R2,1M,map2:Resistor_Horizontal_RM10mm,
+R3,3k3,map2:Resistor_Horizontal_RM10mm,
+R4,270E,map2:Resistor_Horizontal_RM10mm,
+D1,LED,map2:LED-5MM,,LED SS 5MM 625NM RED DIFF,2V, 10mA,Round with Domed Top, 5mm, T-1 3/4,Kingbright Corp,WP7113ID,Digikey,754-1264-ND,http://www.digikey.com/product-detail/en/WP7113ID/754-1264-ND/1747663
+C1,100uF,map2:Capacitor5x6RM2.5,,CAP ALUM 100UF 16V 20% RADIAL,100u,16V,Radial, Can, 6.3mm dia,Panasonic Electronic Components,ECE-A1CKA101,Digikey,P833-ND,http://www.digikey.com/product-detail/en/ECE-A1CKA101/P833-ND/44757?cur=USD
+C2,47uF,map2:Capacitor5x6RM2.5,,CAP ALUM 100UF 16V 20% RADIAL,100u,16V,Radial, Can, 6.3mm dia,Panasonic Electronic Components,ECE-A1CKA101,Digikey,P833-ND,http://www.digikey.com/product-detail/en/ECE-A1CKA101/P833-ND/44757?cur=USD
+C3,47uF,map2:Capacitor5x6RM2.5,,CAP ALUM 100UF 16V 20% RADIAL,100u,16V,Radial, Can, 6.3mm dia,Panasonic Electronic Components,ECE-A1CKA101,Digikey,P833-ND,http://www.digikey.com/product-detail/en/ECE-A1CKA101/P833-ND/44757?cur=USD
+Q1,2N2222,map2:TO-92-Bipolar-rugged-CBE,
+P2,5V,map2:Pin_Header_Straight_1x01,
+P5,GND,map2:Pin_Header_Straight_1x01,
+P7,MTG,map2:MountingHole_3mm,
+P8,MTG,map2:MountingHole_3mm,
+P9,LOGO,,
+P1,5V,map2:Pin_Header_Straight_1x01,
+P4,GND,map2:Pin_Header_Straight_1x01,
+BT1,CR2032,,,HOLDER BATTERY COIN 20MM DIA THM,Coin Cell, Retainer,Coin, 20.0mm,Keystone Electronics,3003,Digikey,3003K-ND,http://www.digikey.com/scripts/DkSearch/dksus.dll?x=0&y=0&lang=en&KeyWords=3003K-ND&cur=USD
+R5,R_photo,map2:R_photo,
