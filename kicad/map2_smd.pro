@@ -1,4 +1,4 @@
-update=Tue Mar  1 18:02:58 2016
+update=Wed Mar  2 17:35:47 2016
 version=1
 last_client=kicad
 [pcbnew]
@@ -29,5 +29,15 @@ LibDir=
 [eeschema/libraries]
 LibName1=map2
 LibName2=power
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=pdf/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [general]
 version=1
