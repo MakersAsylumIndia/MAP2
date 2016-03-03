@@ -1,18 +1,25 @@
 # MAP2
 
-Maker's Asylum Project #2
+**Maker's Asylum Project #2**
 
-learn to solder kit, through hole, interactive art
+"learn to solder kit, through hole, interactive art"
 
-1 LDR, 1 LED, 1 Transistor and a few passives. 10 parts in all.
+1. 1 LDR, 1 LED, 1 Transistor and a few passives. 10 parts in all.
+2. 1 inch square board
+3. Build many and create a matrix for interactive art.
 
-1 inch square board
+DISCUSSION FORUM : https://github.com/MakersAsylumIndia/MAP2
 
-Build many and create a matrix for interactive art.
-
+Through Hole Version
 ![MAP2 top](https://github.com/MakersAsylumIndia/MAP2/blob/master/kicad/image/map2_01.png)
 
 ![MAP2 bottom](https://github.com/MakersAsylumIndia/MAP2/blob/master/kicad/image/map2_03.png)
+
+SMD + Through Hole Version (MAP2_smd)
+![MAP2 top](https://github.com/MakersAsylumIndia/MAP2/blob/master/kicad/image/map2_smd_01.png)
+
+![MAP2 bottom](https://github.com/MakersAsylumIndia/MAP2/blob/master/kicad/image/map2_smd_03.png)
+
 
 License
 -------
