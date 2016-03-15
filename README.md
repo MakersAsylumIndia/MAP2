@@ -8,7 +8,7 @@
 2. 1 inch square board
 3. Build many and create a matrix for interactive art.
 
-DISCUSSION FORUM : https://github.com/MakersAsylumIndia/MAP2
+DISCUSSION FORUM : http://discuss.makersasylum.com/t/map2-learn-to-solder-kit-interactive-art-wall/68
 
 Through Hole Version
 ![MAP2 top](https://github.com/MakersAsylumIndia/MAP2/blob/master/kicad/image/map2_01.png)
